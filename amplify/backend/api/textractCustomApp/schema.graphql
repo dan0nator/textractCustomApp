@@ -1,0 +1,8 @@
+type UserDataModel @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  username: String
+  userCompany: String
+  userCellNumber: AWSPhone
+  userEmail: AWSEmail
+  userLastLogin: AWSTimestamp
+}
