@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\frontEnd",
-    "\\src\\models"
+    "\\src\\frontEnd"
   ],
-  "SelectedNode": "\\src\\frontEnd\\server.js",
+  "SelectedNode": "\\src\\frontEnd",
   "PreviewInSolutionExplorer": false
 }
